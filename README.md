@@ -20,13 +20,16 @@ Programming as Guido indented it.
 
 ## Python Culture
 PEP 8 - how to format your code
+
 PEP 20 - Zen of Python 
 ```
 ìmport this
 ```
 
 Beautiful is better than ugly.
+
 Explicit is better than implicit.
+
 Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
