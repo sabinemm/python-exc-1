@@ -201,3 +201,10 @@ age = input("What's your age: ")
 # The Modern way of formatting a string
 print(f"Hello {name}, you are {age} years old")
 ```
+
+## FLASK
+sudo pip3 install Flask
+dependecies pip3 freeze --local > requirements.txt
+
+ sudo pip3 install -r requirements.txt to install dependencies
+ And the -r switch just tells pip to install from the requirements.txt file, rather than looking at the package index.
