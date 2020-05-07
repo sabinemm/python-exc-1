@@ -203,8 +203,11 @@ print(f"Hello {name}, you are {age} years old")
 ```
 
 ## FLASK
+
 sudo pip3 install Flask
 dependecies pip3 freeze --local > requirements.txt
 
  sudo pip3 install -r requirements.txt to install dependencies
  And the -r switch just tells pip to install from the requirements.txt file, rather than looking at the package index.
+
+ If you'd like to search for packages yourself, then you can go to pypi.org in your web browser and search for packages there that you can install in your own project.
